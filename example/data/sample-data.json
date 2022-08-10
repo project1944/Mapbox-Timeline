@@ -1,0 +1,8 @@
+{"type":"FeatureCollection", "features": [
+ { "type": "Feature", "properties": { "identity" : "Property-1", "timeline_id" : "google-spreadsheet-example", "group_id" : "group_1"}, "geometry": { "type": "Point", "coordinates": [ -42.1875, 39.639537564366684 ] } },
+ { "type": "Feature", "properties": { "identity" : "Property-2", "icon" : "active", "timeline_id" : "google-spreadsheet-example", "group_id" : "group_2"}, "geometry": { "type": "Point", "coordinates": [ -56.25, 25.799891182088334 ] } },
+ { "type": "Feature", "properties": { "identity" : "Property-3", "timeline_id" : "another-flickr-example", "group_id" : "group_3"}, "geometry": { "type": "Point", "coordinates": [ -36.5625, 11.867350911459308 ] } },
+ { "type": "Feature", "properties": { "identity" : "Property-1", "timeline_id" : "google-spreadsheet-example", "group_id" : "group_1"}, "geometry": { "type": "LineString", "coordinates": [ [ -42.1875, 39.639537564366684 ], [ -22.412109375, 42.48830197960227 ], [ -16.171875, 37.71859032558816 ], [ -15.1171875, 41.902277040963696 ], [ -13.0078125, 45.89000815866184 ], [ -10.458984375, 39.232253141714885 ] ] } },
+ { "type": "Feature", "properties": { "identity" : "Property-3", "timeline_id" : "another-flickr-example", "group_id" : "group_3"}, "geometry": { "type": "LineString", "coordinates": [ [ -56.25, 25.799891182088334 ], [ -10.8984375, 19.394067895396613 ] ] } },
+ { "type": "Feature", "properties": { "identity" : "Property-2", "timeline_id" : "google-spreadsheet-example", "group_id" : "group_2"}, "geometry": { "type": "LineString", "coordinates": [ [ -36.5625, 11.867350911459308 ], [ -17.490234375, 49.38237278700955 ] ] } }
+]}
